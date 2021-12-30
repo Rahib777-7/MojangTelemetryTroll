@@ -24,5 +24,5 @@ If not, well, something's not right then.
 
 ## Dependency: gson
 
-This project came to be because Mojang recently decided to force telemetry on players in the newest 1.18 versions.
+This project came to be because Mojang recently decided to force telemetry on players in all Minecraft jars downloaded from Mojang Studios.
 So, to express my disgust and opposition, I decided to make this simple piece of software. Hope it helps you!
